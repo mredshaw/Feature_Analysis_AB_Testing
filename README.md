@@ -12,8 +12,8 @@ As a Product Analyst for a mobile application, you are testing changes to an exi
 4. Creating a roll-out plan for introducing the feature to your audience.
 
 ## Contents
-- `Data_Science_A2_FINAL.ipynb`: Jupyter Notebook containing the code for analysis and statistical testing, as well as markdown cells for summarizing results and the roll-out plan.
-- `data/`: Folder containing the dataset used for analysis (if applicable).
+- `Feature_Analysis_AB_testing.ipynb`: Jupyter Notebook containing the code for analysis and statistical testing, as well as markdown cells for summarizing results and the roll-out plan.
+- `data/`: Folder containing the dataset used for analysis.
 
 ## Tools and Libraries Used
 - Python
